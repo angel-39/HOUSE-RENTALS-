@@ -43,18 +43,31 @@ Here’s a refined company description for **RentEase** — the housing app desi
 # 📂📂PROJECT STRUCTURE 
 RentEase/
 ├── src/
+
 │   ├── models/
+
 │   │   ├── User.java
+
 │   │   ├── Property.java
+
 │   │   ├── Payment.java
+
 │   │   ├── MaintenanceRequest.java
+
 │   │   └── RentalAgreement.java
+
 │   │
+
 │   ├── services/
+
 │   │   ├── PropertyService.java
+
 │   │   ├── PaymentService.java
+
 │   │   ├── AuthService.java
+
 │   │   └── MaintenanceService.jav
+
 
 ### LEARNING OUTCOME:
 Sure! Here are **5 simple learning outcomes** from building the RentEase housing app project:
