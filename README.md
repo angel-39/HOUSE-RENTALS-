@@ -85,7 +85,6 @@ Sure! Here are **5 simple learning outcomes** from building the RentEase housing
 If you'd like, I can help generate a full `README.md` file for your GitHub repo. Just let me know what language and features you used (e.g., Java, console-based, supports booking and cancellation, etc.).
 
 **output**
-
 [image](https://github.com/user-attachments/assets/3637dd6d-cd36-4508-9d4f-0f6c19c8dfd2)
 
 ** Demo video **
