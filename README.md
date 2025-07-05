@@ -9,7 +9,7 @@
 
 "BATCH DURATION" : 19th MAY 2025 to 30th JUNE 2025
 
-# DESCRIPTION FOR HOUUSE - RENTALS 
+# DESCRIPTION FOR HOUSE - RENTALS 
 Here’s a refined company description for **RentEase** — the housing app designed to streamline rentals for tenants and landlords:
 
 ---
