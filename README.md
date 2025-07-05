@@ -86,7 +86,13 @@ If you'd like, I can help generate a full `README.md` file for your GitHub repo.
 
 **output**
 
-[image]((https://github.com/user-attachments/assets/220d41ef-77f1-49b3-a521-ab21ba7b7578)
+[image](https://github.com/user-attachments/assets/3637dd6d-cd36-4508-9d4f-0f6c19c8dfd2)
+
+** Demo video **
+https://github.com/user-attachments/assets/1d9311eb-f7d8-4434-a96e-45627c97402a
+
+
+
 
 
 
